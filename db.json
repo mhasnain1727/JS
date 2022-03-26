@@ -1,0 +1,14 @@
+{
+    "data":[
+        {
+            "fname": "hasnain",
+            "lname": "raza",
+            "r_no" : 101
+        },
+        {
+            "fname": "saquib",
+            "lname": "ali",
+            "r_no": 102
+        }
+    ]
+}
